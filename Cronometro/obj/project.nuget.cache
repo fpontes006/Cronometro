@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "lL9tRsPf2kgsWnke9NfrRXGjO34eCacqnvkk27jg2bkitYnaYOQzJtP2tSwEoiUj3A3cZ5HGmmEQ/bD98MkSlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FH191\\Desktop\\Felipe\\Baita.io\\Cronometro\\Cronometro\\Cronometro.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.br154.corpintra.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nugget-itlr.dev.tsbr.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
